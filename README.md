@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there 👋
+### 你好 / Hi there 👋
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=Losketch&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](#)
 
@@ -12,7 +12,7 @@
 ### 电子邮箱 / E-Mail
 [![](https://img.shields.io/badge/762270064-%40qq.com-royalblue?style=flat-square)](mailto:762270064@qq.com)
 
-### System Environment
+### 系统环境 / System Environment
 
 [![Windows 10](https://img.shields.io/badge/Windows%2010-00adef?style=flat-square&logo=windows&logoColor=ffffff)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=FFFFFF)](#)
