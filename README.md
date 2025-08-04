@@ -20,4 +20,4 @@
 
 
 
-[![動態組字](https://raw.githubusercontent.com/Losketch/Losketch/main/images/3a6e2f0.gif "动态组字")](https://zi.tools/?secondary=ids)
+[![動態組字](https://raw.githubusercontent.com/Losketch/Losketch/main/images/3a6e2f0.svg "动态组字")](https://zi.tools/?secondary=ids)

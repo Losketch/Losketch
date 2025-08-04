@@ -5,7 +5,7 @@
   <defs>
     <style>
       svg {image-rendering:auto}
-      #bg {animation: breath 2s ease-in-out infinite}
+      #bg {animation: breath 2s steps(19, start) infinite}
       @keyframes breath {
         0%, to {opacity:0}
         50% {opacity:1}
